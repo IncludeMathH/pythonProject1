@@ -18,3 +18,4 @@ if torch.cuda.is_available():
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print('test')
+print('git_test')
